@@ -1,3 +1,4 @@
 A general purpose PCB for the Teensy 2.0 MCU
 
 ![](pcb.png)
+![](schematic.png)
